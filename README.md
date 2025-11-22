@@ -1,9 +1,5 @@
 # Salesforce DX Project: Next Steps
-<<<<<<< HEAD
-# Updating this from Main..
-=======
-# Updating this.. after B.P. rule
->>>>>>> 7691c0656fb857d58b6cd062ac08d017715f7dd7
+# changing this from branch 2
 
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
