@@ -64,7 +64,7 @@
         <label>Update Steps</label>
         <locationX>0</locationX>
         <locationY>0</locationY>
-        <inputReference>Transform_Step_Statuses</inputReference>
+        <inputReference>Transform_Step_Statuseses</inputReference>
     </recordUpdates>
     <screens>
         <name>Select_Steps_to_Update</name>
@@ -75,7 +75,7 @@
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
         <connector>
-            <targetReference>Transform_Step_Statuses</targetReference>
+            <targetReference>Transform_Step_Statuseses</targetReference>
         </connector>
         <fields>
             <name>Select_Steps</name>
@@ -174,9 +174,9 @@
             <targetReference>Get_Steps</targetReference>
         </connector>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
     <transforms>
-        <name>Transform_Step_Statuses</name>
+        <name>Transform_Step_Statuseses</name>
         <label>Transform Step Statuses</label>
         <locationX>0</locationX>
         <locationY>0</locationY>
